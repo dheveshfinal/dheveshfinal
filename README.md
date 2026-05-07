@@ -83,8 +83,12 @@ I'm actively looking for **internships** and **collaborations** in:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dheveshfinal&color=FF7A3D&style=for-the-badge" alt="Profile Views"/>
-</p>
+## 🎯 Also Check Out
 
+### 📝 Quiz Management App
+> *A deployed quiz management application — live on Vercel & Render.*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF7A3D?style=for-the-badge&logo=vercel&logoColor=white)](https://deploying-quiz-vercel-render-cr4b.vercel.app)
+
+---
 <p align="center"><em>"Build things that matter."</em></p>
