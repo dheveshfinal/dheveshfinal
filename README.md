@@ -82,7 +82,7 @@ I'm actively looking for **internships** and **collaborations** in:
 - 🌐 Full Stack Development
 - ⚙️ Backend / API Development
 
-📬 Reach me at **your@email.com**
+📬 Reach me at **dhevesharun@email.com**
 
 ---
 
