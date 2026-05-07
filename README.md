@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&q=80" width="100%"/>
+</p>
 <h1 align="center">Hey, I'm Dhevesh Arun 👋</h1>
 
 <p align="center">
